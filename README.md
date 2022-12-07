@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@violaflora**
 - 👀 I’m interested in Software Engineering, Cybersecurity, and Augmented Reality
 - 🌱 I’m currently learning C++ to supplement my Python foundation
-- 💞️ I’m looking to collaborate on interesting projects, mainly backend
+- 💞️ I’m looking to collaborate on interesting projects of all sorts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/violaflora) | [Email](mailto:violetedwardsjane@gmail.com)
 
 <!---
