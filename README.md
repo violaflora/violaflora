@@ -1,8 +1,12 @@
-- 👋 Hi, I’m **@violaflora**
-- 👀 I’m interested in Software Engineering, Cybersecurity, and Augmented Reality
-- 🌱 I’m currently learning C++ to supplement my Python foundation
-- 💞️ I’m looking to collaborate on interesting projects of all sorts
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/violaflora) | [Email](mailto:violetedwardsjane@gmail.com)
+hey!
+
+swift, python, c++, html, css. julia?
+
+[email](mailto:violetedwardsjane@gmail.com) | [linkedin](https://www.linkedin.com/in/violaflora) | [twitter](https://twitter.com/0x26A7)
+
+prev [@apple](https://github.com/apple) as an ix i18n swe intern
+
+<img src="kirby.gif" style="width: 50%; height: 50%">
 
 <!---
 violaflora/violaflora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
