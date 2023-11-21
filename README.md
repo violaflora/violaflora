@@ -1,10 +1,12 @@
 hey!
 
-swift, python, c++, html, css. julia?
+language, education, and programming.
+
+swift, python, html, css, js (on rare occasions).
 
 [email](mailto:violetedwardsjane@gmail.com) | [linkedin](https://www.linkedin.com/in/violaflora) | [twitter](https://twitter.com/0x26A7)
 
-prev [@apple](https://github.com/apple) as an ix i18n swe intern
+prev [@apple](https://github.com/apple) as an ix i18n swe intern.
 
 <img src="kirby.gif" style="width: 50%; height: 50%">
 
