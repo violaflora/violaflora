@@ -2,7 +2,7 @@ hey!
 
 language, education, and programming.
 
-swift, python, html, css, js (on rare occasions).
+swift & python.
 
 [email](mailto:violetedwardsjane@gmail.com) | [linkedin](https://www.linkedin.com/in/violaflora) | [twitter](https://twitter.com/0x26A7)
 
