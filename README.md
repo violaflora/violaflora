@@ -6,6 +6,7 @@ swift & python.
 
 [email](mailto:violetedwardsjane@gmail.com) | [linkedin](https://www.linkedin.com/in/violaflora) | [twitter](https://twitter.com/0x26A7)
 
+[@apple](https://github.com/apple) as a commapps triage intern,<br>
 prev [@apple](https://github.com/apple) as an ix i18n swe intern.
 
 <img src="kirby.gif" style="width: 50%; height: 50%">
